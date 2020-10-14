@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EfCore_Tutorial/1.0.0": {
+        "runtime": {
+          "EfCore_Tutorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EfCore_Tutorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

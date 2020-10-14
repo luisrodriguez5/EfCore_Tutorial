@@ -1,0 +1,13 @@
+C:\Proyecto\EfCore_Tutorial\bin\Debug\netcoreapp3.1\EfCore_Tutorial.exe
+C:\Proyecto\EfCore_Tutorial\bin\Debug\netcoreapp3.1\EfCore_Tutorial.deps.json
+C:\Proyecto\EfCore_Tutorial\bin\Debug\netcoreapp3.1\EfCore_Tutorial.runtimeconfig.json
+C:\Proyecto\EfCore_Tutorial\bin\Debug\netcoreapp3.1\EfCore_Tutorial.runtimeconfig.dev.json
+C:\Proyecto\EfCore_Tutorial\bin\Debug\netcoreapp3.1\EfCore_Tutorial.dll
+C:\Proyecto\EfCore_Tutorial\bin\Debug\netcoreapp3.1\EfCore_Tutorial.pdb
+C:\Proyecto\EfCore_Tutorial\obj\Debug\netcoreapp3.1\EfCore_Tutorial.csprojAssemblyReference.cache
+C:\Proyecto\EfCore_Tutorial\obj\Debug\netcoreapp3.1\EfCore_Tutorial.AssemblyInfoInputs.cache
+C:\Proyecto\EfCore_Tutorial\obj\Debug\netcoreapp3.1\EfCore_Tutorial.AssemblyInfo.cs
+C:\Proyecto\EfCore_Tutorial\obj\Debug\netcoreapp3.1\EfCore_Tutorial.csproj.CoreCompileInputs.cache
+C:\Proyecto\EfCore_Tutorial\obj\Debug\netcoreapp3.1\EfCore_Tutorial.dll
+C:\Proyecto\EfCore_Tutorial\obj\Debug\netcoreapp3.1\EfCore_Tutorial.pdb
+C:\Proyecto\EfCore_Tutorial\obj\Debug\netcoreapp3.1\EfCore_Tutorial.genruntimeconfig.cache
